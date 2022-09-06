@@ -1,1 +1,1 @@
-a script that displays all users and their home directories, sorted by usersa script that displays all users and their home directories
+a script that takes a list of words as input and prints only words that appear exactly once
